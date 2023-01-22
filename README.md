@@ -14,6 +14,12 @@ For anyone who deals with data, it is understood that most of your time will be 
 This tool was created in the python programming language and uses the Openpyxl python module to work with Microsoft Excel. I have python 3.10 as my environment and it can work with any python 3 environment.
 
 
+# Preview
+![Preview of version 1 tool.](https://github.com/micgonzalez/Automated-Labeling-Tool/blob/main/Automated_Labeling_Tool_Images/preview%20of%20version%2001%20tool.jpg)
+
+This is a preview of the code for version 1 of Automated Labeling tool.
+
+
 # Findings
 It was amazing to find out about python modules that allow you to work with excel files. The use of the Openpyxl module made a world of difference for me. It allowed me to create this automated labeling tool to help in data scrubbing. There is still more room for features that I want to include for this tool. 
 
