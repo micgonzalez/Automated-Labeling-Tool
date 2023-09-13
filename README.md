@@ -15,7 +15,8 @@ This tool was created in the Python programming language and uses the Openpyxl P
 
 
 # Preview
-![Preview of version 2 tool.](https://github.com/micgonzalez/Automated-Labeling-Tool/blob/main/Automated_Labeling_Tool_Images/preview%20of%20version%2002%20tool.jpg)
+| ![Preview of version 2 tool.](https://github.com/micgonzalez/Automated-Labeling-Tool/blob/main/Automated_Labeling_Tool_Images/preview%20of%20version%2002%20tool.jpg) |
+|-|
 
 This is a preview of version two results of Automated Labeling tool.
 
