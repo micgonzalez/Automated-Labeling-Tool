@@ -1,17 +1,16 @@
 # Automated-Labeling-Tool
-This automated labeling tool was created to streamline the data scrubbing process which looks for common words used in an excel file and replaces empty or N/A labels cells with the correct information.
 
 
 # Introduction
-This repository displays the automated labeling tool that I created to help me in my day job as a Data Analyst for The Disneyland Resort. <B>The data used for this repository is public data of IMDB’s Disney+ shows’ information. The reason is I’m not able to use the actual excel file due to its sensitive nature.</B> This tool was created to help deal with my ongoing process of data scrubbing by updating cells with the correct labels and filling in empty cells in an automated way. I have included the original excel file with the python file of the automated labeling tool.
+This repository displays the automated labeling tool that I created to help me in my day job as a Reporting Associate for The Disneyland Resort. <B>The data used for this repository is public data of IMDB’s Disney+ shows’ information. The reason is I’m not able to use the actual excel file due to its sensitive nature.</B> This tool was created to help deal with my ongoing process of data scrubbing by updating cells with the correct labels and filling in empty cells in an automated way. I have included the original excel file with the python file of the automated labeling tool.
 
 
 # Abstract
-For anyone who deals with data, it is understood that most of your time will be spent cleaning data (e.g., data scrubbing) and arranging the data to find trends. In my day as a Data Analyst, the original process of data scrubbing took about five hours to complete. After researching, a solution was found to use python to work with Microsoft Excel and help streamline and cut down the time spent on data scrubbing. This tool has saved my department hours per week, which would be spent on data scrubbing.
+For anyone who deals with data, it is understood that most of your time will be spent cleaning data (e.g., data scrubbing) and arranging the data to find trends. In my day as a Reporting Associate, the original process of data scrubbing took about five hours to complete. After researching, a solution was found to use python to work with Microsoft Excel and help streamline and cut down the time spent on data scrubbing. This tool has saved my department hours per week, which would be spent on data scrubbing.
 
 
 # Summary of Skills
-This tool was created in the Python programming language and uses the Openpyxl Python module to work with Microsoft Excel. I will also use a pattern fill feature from the Openpyxl Python module to highlight the updated cells. I have Python 3.10 as my environment and it can work with any Python 3 environment.
+This tool was created in the Python programming language and uses the Openpyxl Python module to work with Microsoft Excel. I will also use a pattern fill feature from the Openpyxl Python module to highlight the updated cells. I have Python 3.10 as my environment, and it can work with any Python 3 environment.
 
 
 # Preview
